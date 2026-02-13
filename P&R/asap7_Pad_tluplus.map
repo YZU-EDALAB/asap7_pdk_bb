@@ -1,0 +1,34 @@
+conducting_layers
+  metal1  BM2
+  metal2  BM1
+  metal3  BPR
+  metal4  LIG
+  metal5  M1
+  metal6  M2
+  metal7  M3
+  metal8  M4
+  metal9  M5
+  metal10 M6
+  metal11 M7
+  metal12 M8
+  metal13 M9
+  metal14 Pad
+
+via_layers
+  via1   BV1
+  via2   TSV
+  via3   VBPR
+  via4   V0
+  via5   V1
+  via6   V2
+  via7   V3
+  via8   V4
+  via9   V5
+  via10  V6
+  via11  V7
+  via12  V8
+  via13  V9
+marker_layers
+
+remove_layers
+
